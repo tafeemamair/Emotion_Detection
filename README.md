@@ -1,6 +1,12 @@
 # Emotion Detection
 
-A CNN-based emotion detection system that classifies facial emotions into 7 categories using TensorFlow/Keras and OpenCV.
+A deep learning-based facial emotion detection application that analyzes facial expressions from uploaded images and predicts emotions such as Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprised.
+
+## Demo
+
+![Emotion Detector Application](assets/emotion-detector-demo.png)
+
+The application uses a trained Convolutional Neural Network (CNN) along with OpenCV's Haar Cascade classifier to detect faces and predict emotions with confidence scores.
 
 ## Overview
 
